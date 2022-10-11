@@ -1,0 +1,14 @@
+@import "variables";
+.logo{
+    width: 90px;
+    height: 70px;
+}
+.navbar-brand{
+    font-family: $logoFont;
+    font-size: 2rem;
+}
+body{
+    background: url("../components/images/bg.jpeg");
+    background-size: cover ;
+    min-height: 100vh;
+}
